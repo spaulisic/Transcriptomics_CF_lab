@@ -1,0 +1,53 @@
+dataset,description
+LB + LRFR - Autophagy,"**Organs**:  
+Dissected Cotyledon & Hypocotyl  
+**Light conditions**:  
+HRFR, LB, LRFR  
+Seedlings were growing for 5 days in LD - HRFR then exposed to different light treatments  
+**Genotypes**:  
+Col-0, _pif457_, _yuc2589_, _smt2_  
+**Reference**:  
+Ince et al (2022). https://doi.org/10.1038/s41467-022-33384-9"
+LRFR - 1h + 25h,"**Tissue**:  
+Seedling  
+**Light conditions**:  
+HRFR, LRFR 1h, LRFR 25h  
+Seedlings were growing for 6-7 days in LD - HRFR then exposed to different light treatments  
+**Genotypes**:  
+Col-0, _hfr1-101_, _pif457_  
+**Reference**:  
+Paulisic & Boccaccini et al (2025). https://doi.org/10.1101/2025.01.23.634457"
+LRFR - PIF7 KI lines,"**Tissue**: Seedling  
+**Light conditions**:  
+HRFR, LRFR 3h, 28°C 3h, LRFR + 28°C 3h  
+Seedlings were growing for 7 days in LD - HRFR then exposed to different light/temperature treatments  
+**Genotypes**:  
+Col-0, _pif7-2_, _pPIF7:PIF7-mTurquoise_, _pPIF7:PIF7-citrine_  
+**Reference**:  
+unpublished"
+LRFR - sugar + auxin,"**Tissue**:  
+Dissected Cotyledon & Hypocotyl  
+**Light conditions**:  
+HRFR, LRFR 2h  
+Seedlings were growing for 5 days in LD - HRFR then exposed to different light treatments  
+**Genotypes**:  
+Col-0, _pgm_, _spsA1/C_, _pgm spsA1/C_  
+**Reference**:  
+Krahmer et al (unpublished)"
+LRFR - time course (15-90 min),"**Organs**:  
+Dissected Cotyledon & Hypocotyl  
+**LRFR Time Points**:  
+15, 45, 90, 180 min  
+Seedlings were growing for 5 days in LD - HRFR then exposed to different duration of LRFR treatment  
+**Genotype**: Col-0  
+**Reference**:  
+Kohnen et al (2016). https://doi.org/10.1105/tpc.16.00463"
+LRFR - wounding,"**Tissue**:  
+Leaf  
+**Treatment**:  
+HRFR 1.5h, LRFR 1.5h, HRFR 4h, LRFR 4h (+/- wounding)  
+Plants were growing for 18 days in LD - HRFR then exposed to different light + wounding treatments  
+**Genotypes**:  
+Col-0, _aos_  
+**Reference**:  
+Fiorucci et al (2022). https://doi.org/10.1371/journal.pgen.1010213"
