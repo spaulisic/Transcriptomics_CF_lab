@@ -16,7 +16,7 @@ Seedlings were growing for 6-7 days in LD - HRFR then exposed to different light
 **Genotypes**:  
 Col-0, _hfr1-101_, _pif457_  
 **Reference**:  
-Paulisic & Boccaccini et al (2025). https://doi.org/10.1101/2025.01.23.634457"
+Paulisic & Boccaccini et al (2025). https://doi.org/10.1186/s13059-025-03901-2"
 LRFR - PIF7 KI lines,"**Tissue**: Seedling  
 **Light conditions**:  
 HRFR, LRFR 3h, 28°C 3h, LRFR + 28°C 3h  
